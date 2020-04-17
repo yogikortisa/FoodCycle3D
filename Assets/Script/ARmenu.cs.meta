@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8af15a885f8d10c47be1026b47fbabcd
+timeCreated: 1463061408
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - guiSkin: {instanceID: 0}
+  - Logo: {instanceID: 0}
+  - zoomin: {instanceID: 0}
+  - zoomout: {instanceID: 0}
+  - home: {instanceID: 0}
+  - keluar: {instanceID: 0}
+  - putar: {instanceID: 0}
+  - objek1: {fileID: 100008, guid: d77e8d129037d3f4199be28f56d0f695, type: 3}
+  - objek2: {fileID: 100038, guid: 12a9f1221f6b4154f92d19d6bd4b35f1, type: 3}
+  - objek3: {fileID: 100004, guid: 857c33c605954b540bbefd6a694c94df, type: 3}
+  - objek4: {fileID: 100156, guid: 3874b36dcebfde54db5e51ccdfb2de7f, type: 3}
+  - objek5: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
